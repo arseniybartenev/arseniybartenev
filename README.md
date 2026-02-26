@@ -42,7 +42,7 @@
 ## 📫 Как со мной связаться
 - **GitHub:** [@arseniybartenev](https://github.com/arseniybartenev)
 - **Email:** arseniybartenev@gmail.com
-- **Telegram/LinkedIn:** [@arseniybartenev](https://t.me/arseniybartenev)
+- **Telegram:** [@arseniybartenev](https://t.me/arseniybartenev)
 
 ## ⚡ Интересные факты
 - Люблю решать задачи, которые приносят реальную бизнес-ценность.
