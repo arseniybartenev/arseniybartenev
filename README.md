@@ -9,7 +9,7 @@
 **Машинное обучение:** Scikit-learn, CatBoost, LightGBM, XGBoost  
 **Deep Learning / NLP:** PyTorch, Transformers (BERT), ResNet, Computer Vision  
 **Работа с данными:** PostgreSQL, Feature Engineering, EDA, A/B тестирование  
-**Инструменты:** Git, Jupyter, Bash, Linux
+**Инструменты:** Git, Jupyter
 
 ## 🔭 Мои проекты
 
